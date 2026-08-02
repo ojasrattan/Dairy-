@@ -83,8 +83,6 @@ h1,h2,h3,h4{
   outline-offset: 3px;
   border-radius: 4px;
 }
- 
-/* ---------------- Buttons ---------------- */
 .btn{
   display:inline-flex;
   align-items:center;
@@ -123,7 +121,6 @@ h1,h2,h3,h4{
 .btn-block{ width:100%; }
 .btn-sm{ padding: 9px 18px; font-size:.82rem; }
  
-/* ---------------- Header ---------------- */
 .site-header{
   position: sticky;
   top:0;
